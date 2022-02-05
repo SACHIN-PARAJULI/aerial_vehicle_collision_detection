@@ -1,0 +1,4 @@
+#Mon Jan 31 22:43:30 NPT 2022
+base.0=/home/suraj/projects/flutter/maps_text/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
